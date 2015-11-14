@@ -1,3 +1,5 @@
 # shopping-list
 
-- milk
+- fat-free milk
+- bread
+- apples
